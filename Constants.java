@@ -10,7 +10,7 @@ import java.util.Map;
 public class Constants {
 
     //本服务名称
-    public  final static String RELATIVE_FILE_PATH = "BMS/SHIPPING";
+    public  final static String RELATIVE_FILE_PATH = "BMS/SHIPPING/ohohoho";
 
     //lot配载
     public final static String IS_ASSIGN= "1";//已配载
